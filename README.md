@@ -1,2 +1,1 @@
-# market-movement-framework
-موقع/مشروع عربي يشرح محركات حركة السوق ومصادر السيولة والتأثيرات النفسية والهيكلية
+document.getElementById('year').textContent = new Date().getFullYear();

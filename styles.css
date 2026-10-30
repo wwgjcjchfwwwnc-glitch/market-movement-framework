@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>المصطلحات الأساسية في الفوركس</title>
+    <meta
+      name="description"
+      content="قائمة بالمصطلحات الأساسية في سوق الفوركس: تقلب، دعم، مقاومة، سيولة، وعائد السندات."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a href="index.html" class="brand">FX Frame</a>
+        <nav class="main-nav" aria-label="التنقل">
+          <a href="index.html">الرئيسية</a>
+          <a href="drivers.html">المحركات</a>
+          <a href="tools.html">الأدوات</a>
+          <a href="glossary.html" class="active">المصطلحات</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-main">
+      <section class="page-hero small-hero">
+        <div class="container">
+          <span class="pill">Glossary</span>
+          <h1>المصطلحات الأساسية في الفوركس</h1>
+          <p>
+            من الضروري فهم التراث اللغوي للمؤشرات والأسعار قبل تحليل السوق بعمق.
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container glossary-grid">
+          <article class="glossary-item">
+            <h3>السيولة</h3>
+            <p>قدرة السوق على تنفيذ أوامر كبيرة دون تحريك السعر بشكل كبير.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>التقلب</h3>
+            <p>مقياس سرعة التغير في السعر خلال فترات زمنية محددة.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>الدعم</h3>
+            <p>منطقة سعرية تُظهر احتمال توقف الهبوط أو ارتداده للأعلى.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>المقاومة</h3>
+            <p>منطقة سعرية تتوقف أو تعكس صعود السعر عند محاولة اختراقها.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>الفائدة</h3>
+            <p>العائد الذي يفرضه البنك المركزي على السيولة أو على الائتمان.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>الدولار الأمريكي (USD)</h3>
+            <p>العملة الرئيسية في السوق العالمية والمرجع في معظم أزواج العملات.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>المؤشرات الاقتصادية</h3>
+            <p>بيانات تُستخدم للتنبؤ بنمو الاقتصاد وتغيرات السياسة النقدية.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>الارتباط</h3>
+            <p>كيفية تأثر زوج عملة معين بزوج آخر أو بقطاع أساسي آخر.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>الطلب والعرض</h3>
+            <p>قوة المشترين والبائعين في السوق والضغط الذي يحدد الاتجاه.</p>
+          </article>
+
+          <article class="glossary-item">
+            <h3>الضغوط النفسية</h3>
+            <p>التأثيرات الناتجة عن الخوف والطمع في تحريك السعر بسرعة.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>© <span id="year"></span> FX Framework</p>
+        <p>Forex Market Analysis Framework</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
